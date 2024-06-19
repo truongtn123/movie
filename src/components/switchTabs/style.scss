@@ -26,12 +26,12 @@
         }
         .movingBg {
             height: 30px;
-            // width: 100px;
-            // border-radius: 15px;
+            width: 100px;
+            border-radius: 15px;
             background-image: var(--gradient);
-            // position: absolute;
-            // left: 0;
-            // transition: left ease 0.4s;
+            position: absolute;
+            left: 0;
+            transition: left ease 0.4s;
         }
     }
 }
